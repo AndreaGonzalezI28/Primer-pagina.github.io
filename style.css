@@ -1,0 +1,50 @@
+/* Aquí va el comentario*/
+body{
+    
+    background-color:#dce0e6;
+    color:rgb(90, 6, 6);
+    font-family: 'M PLUS 1p', sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.Titulo{
+    font-size: 2.5rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    color: #2b4c7e;
+    margin: auto;
+    text-align: center;
+}
+
+p{
+    color:rgb(8, 8, 124)
+}
+
+h1{
+    color: rgb(6, 90, 6)
+}
+
+/*Para agregar clase, ponemos ( . ) antes del nombre*/
+
+
+.titulo-web{
+    color: mediumvioletred;
+    font-size: 1.5rem;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.estilos{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    align-items: center;
+}
+
+.club{
+    width: 200px;
+    height: 100px;
+}
